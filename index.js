@@ -75,7 +75,7 @@ Q: Quel âge faut-il avoir ?
 R: Il faut avoir au moins 18 ans.
 
 Si tu ne connais pas la réponse ou si l'utilisateur a besoin d'une aide personnalisée, termine TOUJOURS ta réponse par :
-"Pour une aide personnalisée, contactez-nous sur WhatsApp : https://wa.me/37764391832"`;
+"Pour une aide personnalisée, contactez notre support par email : support@monamedia.mc"`;
 
   app.post('/chat', async (req, res) => {
     try {
